@@ -1,0 +1,2 @@
+SELECT * FROM stg_clientes WHERE nombre IS NULL;
+-- Esta pruebas me permiten consolidar la calidad de cada dato, logrando identificar que datos son: nulos, duplicados y/o errores
